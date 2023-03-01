@@ -5,6 +5,8 @@ Tasks to accomplish :
 1. Add Room database to store the data.  If I force close (killing the app process) the app and restart the app, the data should persist.  Meaning I should see the content that was created prior to closing the app.
 2. Add a login flow by using the Firebase auth service.
 
+Video recording of the application developed can be viewed at https://drive.google.com/file/d/1Q1LgJ2HZuQQIp9N63ScOoAMecEacVnFd/view?usp=share_link
+
 My Work Results :
 
 - With the help of this feature new users will be able to SignUp and existing users can Sign In.
